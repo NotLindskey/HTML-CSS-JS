@@ -131,20 +131,20 @@ In the video for this week, we used a `console.log()` to get messages from our J
 
 [x] 1. You will need to source in the `helloWorld.js` file into your `index.html` file.
 
-[] 2. Refer back to the video to cover how to source in and get "hello world" to log in the browser console for your assignment! More information on `console.log` can be found [here](https://www.w3schools.com/jsref/met_console_log.asp).
-[] 3. Be sure to test your work by opening your browser console for this assignment. You should be able to see the text "hello world" or whatever you logged!
+[x] 2. Refer back to the video to cover how to source in and get "hello world" to log in the browser console for your assignment! More information on `console.log` can be found [here](https://www.w3schools.com/jsref/met_console_log.asp).
+[x] 3. Be sure to test your work by opening your browser console for this assignment. You should be able to see the text "hello world" or whatever you logged!
 
 _When you're done, make another "`commit`" with `git`._
 
 ---
 
-## 5) [] "Upload" Your Completed Work to GitHub
+## 5) [x] "Upload" Your Completed Work to GitHub
 
 Now that your assignment is done, we'll use `git` to `push` your work to GitHub.
 
 You can find detailed instructions on how to do this in this week's video content.
 
-## 6) [] Submit Your Assignment in the Prime Portal
+## 6) [x] Submit Your Assignment in the Prime Portal
 
 You will need to "submit" a link to your GitHub repo containing your work for this assignment. Prime will then use this link to find and check out your assignment!
 
@@ -154,6 +154,6 @@ You can find detailed instructions on how to do this in this week's video conten
 
 ---
 
-## 7) [] Answer the Slack Discussion Question
+## 7) [x] Answer the Slack Discussion Question
 
 Make sure that you answer this week's Slack discussion question (found each week in the left sidebar of the Tier 1 site) in your cohort's Slack channel!
