@@ -55,7 +55,7 @@ Inside of this folder, we've provided you with a few files, some of those files 
 - *assignment/style.css* (base functionality - required)
 - *assignment/checkpoints/terminal.txt* (base functionality - required)
 
-## 1) Edit the HTML
+## 1) [x] Edit the HTML
 
 Inside of the `index.html` file are comments with tasks for you to complete. Write the code below the comment (no need to delete the comment), like this:
 
@@ -77,11 +77,11 @@ To test your work, open your `index.html` file in Chrome. You should see all of 
 
 If you make more changes in VSCode, save your work, then Refresh the browser to see them.
 
-## 1.1) Make a Commit
+## 1.1) [x] Make a Commit
 
 *When you're done with your HTML, make a "`commit`" with `git`.* 
 
-> Definitly refer to the Git Practical video on this! You'll be making commits *all the time* so eventually you'll get this memorized. For now, take it one step at a time!
+> Definitely refer to the Git Practical video on this! You'll be making commits *all the time* so eventually you'll get this memorized. For now, take it one step at a time!
 
 Here is the pattern. Be sure you are in the project folder!
 
@@ -92,7 +92,7 @@ Here is the pattern. Be sure you are in the project folder!
 5. back to step 1!
 
 
-## 2) Edit the CSS
+## 2) [] Edit the CSS
 
 Now that we have content in our HTML file, let's make it look nice with some styling!
 
@@ -109,7 +109,7 @@ Here is an example of what your assignment could look like:
 
 ---
 
-## 3) Complete the Terminal Checkpoints
+## 3) [] Complete the Terminal Checkpoints
 
 The videos this week introduced you to working with the command line through Terminal. Answer the questions below to check how much you learned.
 
@@ -124,7 +124,7 @@ In the `checkpoints` folder, you will find a `terminal.txt` file. This is just a
 
 ---
 
-## 4) Complete JavaScript "Hello World!" 
+## 4) [] Complete JavaScript "Hello World!" 
 
 Our assignment also contains a `helloWorld.js` file. A "hello world" is a common first step in learning to code, and the first program many programmers write.
 
@@ -138,13 +138,13 @@ In the video for this week, we used a `console.log()` to get messages from our J
 
 ---
 
-## 5) "Upload" Your Completed Work to GitHub
+## 5) [] "Upload" Your Completed Work to GitHub
 
 Now that your assignment is done, we'll use `git` to `push` your work to GitHub.
 
 You can find detailed instructions on how to do this in this week's video content.
 
-## 6) Submit Your Assignment in the Prime Portal
+## 6) [] Submit Your Assignment in the Prime Portal
 
 You will need to "submit" a link to your GitHub repo containing your work for this assignment. Prime will then use this link to find and check out your assignment! 
 
@@ -154,7 +154,7 @@ You can find detailed instructions on how to do this in this week's video conten
 
 ---
 
-## 7) Answer the Slack Discussion Question
+## 7) [] Answer the Slack Discussion Question
 
 Make sure that you answer this week's Slack discussion question (found each week in the left sidebar of the Tier 1 site) in your cohort's Slack channel!
 
