@@ -123,7 +123,7 @@ _When you're done, make another "`commit`" with `git`._
 
 ---
 
-## 4) [] Complete JavaScript "Hello World!"
+## 4) [x] Complete JavaScript "Hello World!"
 
 Our assignment also contains a `helloWorld.js` file. A "hello world" is a common first step in learning to code, and the first program many programmers write.
 
